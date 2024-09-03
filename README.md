@@ -20,11 +20,14 @@ In the fast-paced world of coding, there's always something new to learn. Whethe
 
 I'm thrilled to be part of the coding community and eager to make meaningful contributions to exciting projects. If you're looking for someone who brings a fresh perspective, adaptability, and a passion for coding, let's connect!
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript Logo" width="100" height="100"/>
-<img src="https://sequelize.org/img/logo.svg" alt="Sequelize Logo" width="100" height="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="100" height="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100" height="100"/>
-<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux Logo" width="100" height="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="100" height="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3 Logo" width="100" height="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express Logo" width="100" />
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript Logo" width="100" height="100"/>
+  <img src="https://sequelize.org/img/logo.svg" alt="Sequelize Logo" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux Logo" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3 Logo" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express Logo" width="100"/>
+</div>
+
